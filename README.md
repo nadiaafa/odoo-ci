@@ -1,1 +1,1 @@
-Odoo CI
+Odoo CI using Travis
